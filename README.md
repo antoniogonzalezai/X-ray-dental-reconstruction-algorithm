@@ -1,2 +1,3 @@
-# X-ray-dental-reconstruction-algorithm
-Agorithm for image reconstruction using deep neural networks
+this is an algorithm for dental x-ray image reconstruction as an example.
+
+By Antonio Gonzalez
