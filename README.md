@@ -13,7 +13,7 @@ Abdi, Amir; Kasaei, Shohreh (2020), “Panoramic Dental X-rays With Segmented Ma
 
 If you find this code useful in your research, please consider citing the blog:
 
-@misc{sagarautoencoder,
+@misc{antoniogonzaautoencoder,
   Author = {Antonio Gonzalez},
   Title = {X-Ray Dental Recontruction Using AutoEncoder},
   Year = {2021},
